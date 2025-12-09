@@ -13,7 +13,6 @@ python3 main.py --input armamodpack.html --output out.txt
 ```
 The `--input` option provides an input html file. <br>
 The `--output` option provides an output txt file <br>
-**IMPORTANT**: Provided output file needs to exist BEFORE the program is run. I'm currently in process of making it autocreate the file.
 
 # Dependencies
 The program uses:
