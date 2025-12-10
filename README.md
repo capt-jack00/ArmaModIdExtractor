@@ -14,6 +14,9 @@ python3 main.py --input armamodpack.html --output out.txt
 The `--input` option provides an input html file. <br>
 The `--output` option provides an output txt file <br>
 
+# GUI version of the program
+https://github.com/capt-jack00/ArmaModIdExtractor-v.2
+
 # Dependencies
 The program uses:
 - `BeautifulSoup4` for web scraping
